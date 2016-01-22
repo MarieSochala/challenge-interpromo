@@ -1,0 +1,122 @@
+body{
+	margin: 0;
+	top:0;
+	font-family: 'Roboto', sans-serif;
+}
+.firstpart{
+	font-family: 'Roboto', sans-serif;
+	color:white;
+	background-image: url(../images/payments-banner-graphic.png);
+	width: 100%;
+	height: 500px;
+	display:inline-block;
+}
+
+.firstpart .identity .logo{
+	height: 2em;
+	width: auto;
+	float: left;
+	margin-right: 10px;
+}
+
+.firstpart .identity h5{
+	padding-top: 6px;
+}
+
+
+.connexion h6 {
+	float: right;
+	margin:0 20px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.payments{
+	font-size: 35px;
+	margin-top:150px;
+	text-align: center;
+
+}
+#catchline  {
+	font-family: 'Slabo 27px', serif;
+}
+
+.payments #free{
+	font-size: 20px;
+	color: #7c4dff;
+	background-color: white;
+	width: 450px;
+	height: 30px;
+	border-radius: 5px;
+	padding:5px;
+	margin:auto;
+}
+
+.sm-icones{
+	border-bottom: solid 0.5px #424242;
+}
+
+.sm-icones th{
+	padding :60px;
+	margin: auto;
+	width: 400px;
+	border-spacing: solid 1px #424242 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #424242;
+}
+
+.bannerpricing{
+	background-color: #e8eaf6;
+	height: 200px;
+	text-align: center;
+	color:#424242;
+	font-size:#9E9E9E;
+	padding:10px;
+}
+
+.bannerpricing h2{
+	color:purple;
+}
+
+.explanation td{
+	color:#9E9E9E;
+	font-size: 16px;
+	text-align: center;
+	margin:10px;
+	padding: 40px;
+}
+
+
+#ccinfos{
+	font-family: 'Raleway', sans-serif;
+	background-color: #424242;
+	height:50px;
+	color:white;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+}
+.c-account{
+	text-align: center;
+	color:#424242;
+	font-size: 20px;
+}
+
+.button{
+	font-family: 'Varela Round', sans-serif;
+	border-radius: 5px;
+	background-color: white;
+	height:20px;
+	width: 200px;
+	padding:20px;
+	font-size:15px;
+	border-bottom: solid 1px 0,0,0,0;
+	color:#7c4dff;
+	margin: auto;
+}
+
+#greenone{
+	background-color: #00796b;
+	color:white;
+}
